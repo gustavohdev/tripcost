@@ -14,12 +14,13 @@ npm i
 
  # Examples
  - POST TRIP
-
+```json
     {
         "name":"First Trip"
     }
-
+```
 - POST EXPENSE
+```json
     {
         "trip":"612d065fbd5cd53735c3745e",
         "date":"2021-08-31T10:40",
@@ -27,5 +28,5 @@ npm i
         "category":"food",
         "description":"Lunch on the road"
     }
-
+```
 
